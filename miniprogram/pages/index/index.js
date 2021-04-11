@@ -1,4 +1,4 @@
-// pages/chooseLib/chooseLib.js
+// miniprogram/page/index/index.js
 Page({
 
   /**
