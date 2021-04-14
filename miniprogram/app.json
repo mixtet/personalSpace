@@ -1,6 +1,8 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/main/index/index",
+    "pages/main/tubeMoney/index",
+    "pages/main/my/index"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
